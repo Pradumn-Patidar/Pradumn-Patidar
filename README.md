@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pradumn-Patidar
+- 👀 I’m interested in Software Development and Competitive Programming
+- 🌱 I’m currently learning DSA & MERN Stack
+- 💞️ I’m looking to collaborate on Projects
+- 📫 You can mail me:- pradumpatidar@gmail.com 
